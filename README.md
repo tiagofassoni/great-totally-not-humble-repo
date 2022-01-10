@@ -15,4 +15,7 @@ SELECT * FROM table;
 ```
 
 
-Dennis edited this file.
+Dennis edited this file. 
+
+![image](https://user-images.githubusercontent.com/95414331/148793146-7a642fed-50c9-4c83-b2c3-ff71f434acb1.png)
+
