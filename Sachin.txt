@@ -1,4 +1,8 @@
+#<<<<<<< Sachin_1
+Hi all
+#=======
 Hi
 
 ### Yousra's contribution
 Hey Sachin, I added something!
+#>>>>>>> main
