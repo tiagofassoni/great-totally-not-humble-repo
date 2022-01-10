@@ -13,3 +13,6 @@ It's nothing important, really
 SELECT * FROM table;
 
 ```
+
+# Hello fellow Codemonkeys
+@Tiago_Fassoni is my most favorite data scientist ~~but don't tell him that~~
