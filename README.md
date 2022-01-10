@@ -14,9 +14,7 @@ SELECT * FROM table;
 
 ```
 
-Pttmr-patch-2
-
-Dennis edited this file. 
+Pttmr-patch-2 Pttmr-from desktop Dennis edited this file. 
 
 ![image](https://user-images.githubusercontent.com/95414331/148793146-7a642fed-50c9-4c83-b2c3-ff71f434acb1.png)
 
